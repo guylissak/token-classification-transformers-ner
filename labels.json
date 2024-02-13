@@ -1,0 +1,521 @@
+{"id": 0,
+ "tokens": ["software",
+  "engineers",
+  "from",
+  "united",
+  "kingdom",
+  "industry",
+  ":",
+  "education",
+  "."],
+ "ner_tags": [7, 8, 0, 5, 6, 0, 0, 9, 0]
+}
+{"id": 1,
+ "tokens": ["California",
+  "CTO",
+  "banking",
+  "industry",
+  "and",
+  "sports"],
+ "ner_tags": [5, 7, 9, 0, 0, 9]
+}
+{
+  "id": 2,
+  "tokens": ["John", "Doe", "works", "at", "Microsoft", "in", "Seattle", "."],
+  "ner_tags": [1, 2, 0, 0, 3, 0, 5, 0]
+}
+{
+  "id": 3,
+  "tokens": ["Amazon", "is", "a", "leading", "company", "in", "the", "e-commerce", "industry", "."],
+  "ner_tags": [3, 0, 0, 0, 0, 0, 0, 9, 10, 0]
+}
+{
+  "id": 4,
+  "tokens": ["The", "CEO", "of", "Google", "announced", "a", "new", "office", "in", "London", "."],
+  "ner_tags": [0, 7, 0, 3, 0, 0, 0, 0, 0, 5, 0]
+}
+{
+    "id": 5,
+    "tokens": ["looking", "for", "product", "managers", "from", "united", "kingdom"],
+    "ner_tags": [0, 0, 7, 8, 0, 5, 6]
+}
+{
+    "id": 6,
+    "tokens": ["manager", "or", "team", "lead", "in", "the", "cyber", "industry", "from", "canada"],
+    "ner_tags": [7, 0, 7, 8, 0, 0, 9, 10, 0, 5]
+}
+{
+    "id": 7,
+    "tokens": ["John", "Doe", ",", "VP", "london"],
+    "ner_tags": [1, 2, 0, 7, 5]
+}
+{
+    "id": 8,
+    "tokens": ["Sam", "Altman", ",", "OpenAI", ",", "california"],
+    "ner_tags": [1, 2, 0, 3, 0, 5]
+}
+{
+    "id": 9,
+    "tokens": ["data", "engineer", ",", "retail", ",", "london"],
+    "ner_tags": [7, 8, 0, 9, 0, 5]
+}
+{
+    "id": 10,
+    "tokens": ["Software", "Developer", "needed", "in", "Berlin"],
+    "ner_tags": [7, 8, 0, 0, 5]
+}
+{
+    "id": 11,
+    "tokens": ["Jane", "Doe", "is", "a", "Graphic", "Designer", "from", "New", "York"],
+    "ner_tags": [1, 2, 0, 0, 7, 8, 0, 5, 6]
+}
+{
+    "id": 12,
+    "tokens": ["Senior", "Data", "Scientist", "position", "at", "Tesla", ",", "California"],
+    "ner_tags": [7, 8, 8, 0, 0, 3, 0, 5]
+}
+{
+    "id": 13,
+    "tokens": ["Marketing", "Manager", "for", "Amazon", "in", "London"],
+    "ner_tags": [7, 8, 0, 3, 0, 5]
+}
+{
+    "id": 14,
+    "tokens": ["AI", "research", "conference", "in", "Tokyo"],
+    "ner_tags": [9, 10, 0, 0, 5]
+}
+{
+    "id": 15,
+    "tokens": ["Elon", "Musk", ",", "CEO", "of", "SpaceX"],
+    "ner_tags": [1, 2, 0, 7, 0, 3]
+}
+{
+    "id": 16,
+    "tokens": ["Blockchain", "developer", "vacancy", "at", "IBM", "New", "York"],
+    "ner_tags": [7, 8, 0, 0, 3, 5, 6]
+}
+{
+    "id": 17,
+    "tokens": ["Recruiting", "nurses", "for", "the", "healthcare", "sector", "in", "Sydney"],
+    "ner_tags": [0, 7, 0, 0, 9, 0, 0, 5]
+}
+{
+    "id": 18,
+    "tokens": ["Graduate", "teaching", "assistant", "positions", "in", "the", "education", "field"],
+    "ner_tags": [7, 8, 8, 0, 0, 0, 9, 0]
+}
+{
+    "id": 19,
+    "tokens": ["Project", "management", "workshop", "in", "San", "Francisco"],
+    "ner_tags": [9, 10, 0, 0, 5, 6]
+}
+{
+    "id": 20,
+    "tokens": ["Lead", "Data", "Analyst", "role", "at", "Spotify", "in", "Stockholm"],
+    "ner_tags": [7, 8, 8, 0, 0, 3, 0, 5]
+}
+{
+    "id": 21,
+    "tokens": ["Emma", "Watson", "appointed", "as", "Marketing", "Director", "for", "Adobe", "London", "office"],
+    "ner_tags": [1, 2, 0, 0, 7, 8, 0, 3, 5, 0]
+}
+{
+    "id": 22,
+    "tokens": ["Research", "conference", "on", "Artificial", "Intelligence", "in", "Paris"],
+    "ner_tags": [0, 0, 0, 9, 10, 0, 5]
+}
+{
+    "id": 23,
+    "tokens": ["Opening", "for", "a", "Civil", "Engineer", "in", "Dubai's", "construction", "sector"],
+    "ner_tags": [0, 0, 0, 7, 8, 0, 5, 9, 0]
+}
+{
+    "id": 24,
+    "tokens": ["Bill", "Gates", ",", "founder", "of", "Microsoft", ",", "visiting", "Berlin"],
+    "ner_tags": [1, 2, 0, 0, 0, 3, 0, 0, 5]
+}
+{
+    "id": 25,
+    "tokens": ["Workshop", "on", "cloud", "computing", "hosted", "by", "IBM", "in", "New", "York"],
+    "ner_tags": [0, 0, 9, 10, 0, 0, 3, 0, 5, 6]
+}
+{
+    "id": 26,
+    "tokens": ["UX", "designer", "position", "available", "at", "Google", ",", "Mountain", "View"],
+    "ner_tags": [7, 8, 0, 0, 0, 3, 0, 5, 6]
+}
+{
+    "id": 27,
+    "tokens": ["Career", "fair", "in", "Toronto", "featuring", "tech", "companies"],
+    "ner_tags": [0, 0, 0, 5, 0, 9, 0]
+}
+{
+    "id": 28,
+    "tokens": ["Nursing", "jobs", "in", "the", "healthcare", "industry", "across", "Canada"],
+    "ner_tags": [7, 0, 0, 0, 9, 10, 0, 5]
+}
+{
+    "id": 29,
+    "tokens": ["Sophie", "Turner", ",", "HR", "Manager", "at", "LinkedIn", ",", "London"],
+    "ner_tags": [1, 2, 0, 7, 8, 0, 3, 0, 5]
+}
+{
+    "id": 30,
+    "tokens": ["Internship", "opportunities", "in", "digital", "marketing", "at", "Facebook"],
+    "ner_tags": [0, 0, 0, 9, 10, 0, 3]
+}
+{
+    "id": 31,
+    "tokens": ["Fintech", "startup", "conference", "in", "San", "Francisco"],
+    "ner_tags": [9, 0, 0, 0, 5, 6]
+}
+{
+    "id": 32,
+    "tokens": ["Python", "developer", "needed", "in", "Singapore", "for", "software", "development"],
+    "ner_tags": [7, 8, 0, 0, 5, 0, 9, 0]
+}
+{
+    "id": 33,
+    "tokens": ["Alice", "Johnson", ",", "an", "economist", "from", "Harvard", "University"],
+    "ner_tags": [1, 2, 0, 0, 7, 0, 3, 3]
+}
+{
+    "id": 34,
+    "tokens": ["Annual", "meeting", "of", "World", "Health", "Organization", "in", "Geneva"],
+    "ner_tags": [0, 0, 0, 3, 3, 3, 0, 5]
+}
+{
+    "id": 35,
+    "tokens": ["Global", "summit", "on", "climate", "change", "in", "Reykjavik"],
+    "ner_tags": [0, 0, 0, 9, 0, 0, 5]
+}
+{
+    "id": 36,
+    "tokens": ["Fashion", "design", "workshop", "at", "Prada", "Milan"],
+    "ner_tags": [9, 10, 0, 0, 3, 5]
+}
+{
+    "id": 37,
+    "tokens": ["Summer", "internship", "with", "NASA", "for", "engineering", "students"],
+    "ner_tags": [0, 0, 0, 3, 0, 9, 0]
+}
+{
+    "id": 38,
+    "tokens": ["Jack", "Ma", ",", "founder", "of", "Alibaba", ",", "speaking", "in", "Shanghai"],
+    "ner_tags": [1, 2, 0, 0, 0, 3, 0, 0, 0, 5]
+}
+{
+    "id": 39,
+    "tokens": ["E-commerce", "giant", "Amazon", "expands", "to", "Brazil"],
+    "ner_tags": [9, 0, 3, 0, 0, 5]
+}
+{
+    "id": 40,
+    "tokens": ["Sarah", "Miller", "Head", "of", "AI", "at", "Banco", "do", "Brasil"],
+    "ner_tags": [1, 2, 7, 0, 8, 0, 3, 0, 3]
+}
+{
+    "id": 41,
+    "tokens": ["CTO", "opening", "at", "Microsoft"],
+    "ner_tags": [7, 0, 0, 3]
+}
+{ "id": 42, "tokens": ["Hiring", "for", "PR", "Specialist", "role", "at", "Coca-Cola"], "ner_tags": [0, 0, 7, 8, 0, 0, 3] }
+{ "id": 43, "tokens": ["Head", "of", "Technology", "at", "HSBC", "in", "Hong", "Kong"], "ner_tags": [7, 0, 10, 0, 3, 0, 5, 6] }
+{ "id": 44, "tokens": ["Anna", "Smith", "is", "the", "HR", "Manager", "at", "Deloitte", "USA"], "ner_tags": [1, 2, 0, 0, 7, 8, 0, 3, 5] }
+{ "id": 45, "tokens": ["Yahoo", "is", "looking", "for", "a", "Data", "Scientist", "in", "Silicon", "Valley"], "ner_tags": [3, 0, 0, 0, 0, 7, 8, 0, 5, 6] }
+{ "id": 46, "tokens": ["Jason", "Morgan", ",", "SEO", "Expert", "at", "BBC", "London"], "ner_tags": [1, 2, 0, 7, 8, 0, 3, 5] }
+{ "id": 47, "tokens": ["Chief", "Marketing", "Officer", "of", "Unilever", "in", "Netherlands"], "ner_tags": [7, 8, 8, 0, 3, 0, 5] }
+{ "id": 48, "tokens": ["Tom", "Adams", "is", "the", "Finance", "Director", "at", "PepsiCo"], "ner_tags": [1, 2, 0, 0, 7, 8, 0, 3] }
+{ "id": 49, "tokens": ["Jane", "Miller", "works", "as", "Regional", "Sales", "Manager", "for", "Ford", "in", "Detroit"], "ner_tags": [1, 2, 0, 0, 7, 8, 8, 0, 3, 0, 5] }
+{ "id": 50, "tokens": ["Position", "for", "Health", "and", "Safety", "Officer", "at", "Marriott", "Hotels"], "ner_tags": [0, 0, 7, 0, 8, 8, 0, 3, 4] }
+{ "id": 51, "tokens": ["Netflix", "has", "an", "opening", "for", "a", "Product", "Manager", "in", "Los", "Angeles"], "ner_tags": [3, 0, 0, 0, 0, 0, 7, 8, 0, 5, 6] }
+{ "id": 52, "tokens": ["Paul", "Williams", ",", "CEO", "of", "General", "Motors"], "ner_tags": [1, 2, 0, 7, 0, 3, 4] }
+{ "id": 53, "tokens": ["Job", "offer", "for", "System", "Analyst", "at", "Oracle", "in", "Texas"], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0, 5] }
+{ "id": 54, "tokens": ["Google", "is", "hiring", "for", "the", "role", "of", "Quality", "Assurance", "Engineer"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 7, 8, 8] }
+{ "id": 55, "tokens": ["Vodafone", "Germany", "needs", "a", "Network", "Engineer"], "ner_tags": [3, 5, 0, 0, 7, 8] }
+{ "id": 56, "tokens": ["Mary", "Johnson", "was", "appointed", "as", "Head", "of", "Research", "at", "Pfizer", "New", "York"], "ner_tags": [1, 2, 0, 0, 0, 7, 0, 10, 0, 3, 5, 6] }
+{ "id": 57, "tokens": ["Job", "Opportunity", "as", "IT", "Support", "Specialist", "at", "Uber", "Paris"], "ner_tags": [0, 0, 0, 7, 8, 8, 0, 3, 5] }
+{ "id": 58, "tokens": ["Amazon", "India", "is", "hiring", "Software", "Developers"], "ner_tags": [3, 5, 0, 0, 7, 8] }
+{ "id": 59, "tokens": ["David", "Wilson", ",", "CTO", "of", "Intel", ",", "California"], "ner_tags": [1, 2, 0, 7, 0, 3, 0, 5] }
+{ "id": 60, "tokens": ["Seeking", "an", "Operations", "Manager", "for", "Adidas", "in", "Berlin"], "ner_tags": [0, 0, 7, 8, 0, 3, 0, 5] }
+{ "id": 61, "tokens": ["Emily", "Clark", ",", "Marketing", "Executive", "at", "Sony", "Japan"], "ner_tags": [1, 2, 0, 7, 8, 0, 3, 5] }
+{
+    "id": 62,
+    "tokens": ["Google", "is", "searching", "for", "a", "Senior", "Cloud", "Architect"],
+    "ner_tags": [3, 0, 0, 0, 0, 7, 8, 8]
+}
+{
+    "id": 63,
+    "tokens": ["Amazon", "recruits", "an", "Operations", "Director", "in", "Consumer", "Services"],
+    "ner_tags": [3, 0, 0, 7, 8, 0, 9, 0]
+}
+{
+    "id": 64,
+    "tokens": ["Project", "Manager", "needed", "in", "Construction", "at", "Turner", "Construction"],
+    "ner_tags": [7, 8, 0, 0, 9, 0, 3, 3]
+}
+{
+    "id": 65,
+    "tokens": ["Liam", "Smith", ",", "Professor", "at", "Harvard", "School", "of", "Education"],
+    "ner_tags": [1, 2, 0, 7, 0, 3, 3, 0, 9]
+}
+{
+    "id": 66,
+    "tokens": ["Hiring", "a", "Content", "Creator", "for", "Entertainment", "department", "at", "Netflix"],
+    "ner_tags": [0, 0, 7, 8, 0, 9, 0, 0, 3]
+}
+{
+    "id": 67,
+    "tokens": ["Marketing", "Specialist", "in", "Farming", ",", "Ranching", ",", "Forestry"],
+    "ner_tags": [7, 8, 0, 9, 0, 9, 0, 9]
+}
+{
+    "id": 68,
+    "tokens": ["Financial", "Analyst", "position", "at", "Goldman", "Sachs"],
+    "ner_tags": [7, 8, 0, 0, 3, 3]
+}
+{
+    "id": 69,
+    "tokens": ["Mayoral", "candidate", "for", "Government", "in", "Chicago"],
+    "ner_tags": [7, 0, 0, 9, 0, 5]
+}
+{
+    "id": 70,
+    "tokens": ["Job", "opening", "for", "Hotel", "Manager", "in", "Hospitality", "at", "Marriott"],
+    "ner_tags": [0, 0, 0, 7, 8, 0, 9, 0, 3]
+}
+{
+    "id": 71,
+    "tokens": ["Nurse", "Recruiter", "at", "Johns", "Hopkins", "Hospital"],
+    "ner_tags": [7, 8, 0, 3, 3, 3]
+}
+{
+    "id": 72,
+    "tokens": ["Isabella", "Rossi", ",", "Accountant", ",", "industry", ":", "Finance"],
+    "ner_tags": [1, 2, 0, 7, 0, 0, 0, 9]
+}
+{
+    "id": 73,
+    "tokens": ["Samuel", "Adams", "CEO", "at", "a", "leading", "Tech", "Company"],
+    "ner_tags": [1, 2, 7, 0, 0, 0, 9, 0]
+}
+{ "id": 74, "tokens": ["The", "Eiffel", "Tower", "is", "a", "landmark", "in", "Paris"], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 5] }
+{ "id": 75, "tokens": ["Betty", "is", "a", "renowned", "professor", "at", "Harvard", "University"], "ner_tags": [1, 0, 0, 0, 7, 0, 3, 4] }
+{ "id": 76, "tokens": ["The", "blast", "happened", "near", "Tiananmen", "Square"], "ner_tags": [0, 0, 0, 0, 5, 6] }
+{ "id": 77, "tokens": ["Bank", "of", "America", "is", "one", "of", "the", "world's", "leading", "banks"], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 0, 0, 0] }
+{ "id": 78, "tokens": ["The", "President", "of", "the", "United", "States", "lives", "in", "the", "White", "House"], "ner_tags": [0, 7, 0, 0, 5, 6, 0, 0, 0, 5, 6] }
+{ "id": 79, "tokens": ["IBM", "is", "a", "global", "technology", "company"], "ner_tags": [3, 0, 0, 0, 9, 10] }
+{ "id": 80, "tokens": ["Alice", "is", "an", "engineer", "in", "the", "construction", "industry"], "ner_tags": [1, 0, 0, 7, 0, 0, 9, 10] }
+{ "id": 81, "tokens": ["The", "Monalisa", "is", "in", "the", "Louvre", "Museum", "in", "Paris"], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 5] }
+{ "id": 82, "tokens": ["Steve", "is", "a", "software", "developer", "at", "Google"], "ner_tags": [1, 0, 0, 7, 8, 0, 3] }
+{ "id": 83, "tokens": ["The", "Sydney", "Opera", "House", "is", "a", "popular", "tourist", "spot"], "ner_tags": [0, 5, 6, 6, 0, 0, 0, 0, 0] }
+{ "id": 84, "tokens": ["The", "tech", "industry", "is", "dominated", "by", "companies", "like", "Apple"], "ner_tags": [0, 9, 10, 0, 0, 0, 0, 0, 3] }
+{ "id": 85, "tokens": ["Ben", "is", "a", "journalist", "for", "The", "New", "York", "Times"], "ner_tags": [1, 0, 0, 7, 0, 3, 4, 4, 4] }
+{ "id": 86, "tokens": ["Grand", "Canyon", "is", "located", "in", "Arizona"], "ner_tags": [5, 6, 0, 0, 0, 5] }
+{ "id": 87, "tokens": ["Pyramids", "of", "Giza", "are", "in", "Egypt"], "ner_tags": [5, 6, 6, 0, 0, 5] }
+{ "id": 88, "tokens": ["Mark", "is", "an", "economist", "at", "World", "Bank"], "ner_tags": [1, 0, 0, 7, 0, 3, 4] }
+{ "id": 89, "tokens": ["The", "Smithsonian", "Institute", "is", "a", "prominent", "research", "organization"], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0] }
+{ "id": 90, "tokens": ["Tiffany", "is", "a", "chef", "at", "a", "popular", "restaurant", "in", "Los", "Angeles"], "ner_tags": [1, 0, 0, 7, 0, 0, 0, 0, 0, 5, 6] }
+{ "id": 91, "tokens": ["The", "space", "industry", "is", "led", "by", "SpaceX", "and", "NASA"], "ner_tags": [0, 9, 10, 0, 0, 0, 3, 0, 3] }
+{ "id": 92, "tokens": ["Jake", "is", "a", "professor", "at", "Stanford", "University"], "ner_tags": [1, 0, 0, 7, 0, 3, 4] }
+{ "id": 93, "tokens": ["The", "Great", "Barrier", "Reef", "is", "a", "world", "heritage", "site"], "ner_tags": [0, 5, 6, 6, 0, 0, 0, 0, 0] }
+{ "id": 94, "tokens": ["The", "Golden", "Gate", "Bridge", "is", "in", "San", "Francisco"], "ner_tags": [0, 5, 6, 6, 0, 0, 5, 6] }
+{ "id": 95, "tokens": ["Julie", "is", "a", "lawyer", "at", "a", "well-known", "law", "firm"], "ner_tags": [1, 0, 0, 7, 0, 0, 0, 0, 0] }
+{ "id": 96, "tokens": ["The", "Wall", "Street", "Journal", "is", "a", "prestigious", "newspaper"], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0] }
+{ "id": 97, "tokens": ["The", "Leaning", "Tower", "of", "Pisa", "is", "in", "Italy"], "ner_tags": [0, 5, 6, 6, 6, 0, 0, 5] }
+{ "id": 98, "tokens": ["Linda", "is", "a", "manager", "at", "the", "insurance", "company", "AIG"], "ner_tags": [1, 0, 0, 7, 0, 0, 9, 10, 3] }
+{ "id": 99, "tokens": ["Looking", "for", "a", "doctor", "from", "the", "healthcare", "industry", "in", "Chicago"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 100, "tokens": ["Leads", "from", "Google", "in", "Mountain", "View"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 101, "tokens": ["Looking", "for", "an", "engineer", "from", "the", "tech", "industry", "in", "Seattle"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 102, "tokens": ["Leads", "from", "Microsoft", "in", "Washington"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 103, "tokens": ["Looking", "for", "a", "chef", "from", "the", "hospitality", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 104, "tokens": ["Leads", "from", "Facebook", "in", "Silicon", "Valley"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 105, "tokens": ["Looking", "for", "a", "journalist", "from", "the", "media", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 106, "tokens": ["Leads", "from", "Apple", "in", "Cupertino"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 107, "tokens": ["Looking", "for", "a", "lawyer", "from", "the", "legal", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 108, "tokens": ["Leads", "from", "Amazon", "in", "Seattle"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 109, "tokens": ["Looking", "for", "a", "software", "developer", "from", "the", "tech", "industry", "in", "San", "Francisco"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 110, "tokens": ["Leads", "from", "IBM", "in", "New", "York"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 111, "tokens": ["Looking", "for", "a", "teacher", "from", "the", "education", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 112, "tokens": ["Leads", "from", "Adobe", "in", "San", "Jose"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 113, "tokens": ["Looking", "for", "a", "pilot", "from", "the", "aviation", "industry", "in", "Dubai"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 114, "tokens": ["Leads", "from", "SpaceX", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 115, "tokens": ["Looking", "for", "a", "nurse", "from", "the", "healthcare", "industry", "in", "Sydney"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 116, "tokens": ["Leads", "from", "Tesla", "in", "Fremont"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 117, "tokens": ["Looking", "for", "a", "scientist", "from", "the", "biotech", "industry", "in", "Boston"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 118, "tokens": ["Leads", "from", "Unilever", "in", "London"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 119, "tokens": ["Looking", "for", "an", "actuary", "from", "the", "insurance", "industry", "in", "Chicago"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 120, "tokens": ["Leads", "from", "Disney", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 121, "tokens": ["Looking", "for", "a", "photographer", "from", "the", "media", "industry", "in", "Tokyo"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 122, "tokens": ["Leads", "from", "Oracle", "in", "Redwood", "City"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 123, "tokens": ["Looking", "for", "an", "architect", "from", "the", "construction", "industry", "in", "Berlin"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 124, "tokens": ["Leads", "from", "Twitter", "in", "San", "Francisco"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 125, "tokens": ["Looking", "for", "a", "writer", "from", "the", "publishing", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 126, "tokens": ["Leads", "from", "Netflix", "in", "Los", "Gatos"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 127, "tokens": ["Looking", "for", "a", "musician", "from", "the", "music", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 128, "tokens": ["Leads", "from", "Uber", "in", "San", "Francisco"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 129, "tokens": ["Looking", "for", "a", "food", "scientist", "from", "the", "food", "industry", "in", "Madison"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5] }
+{ "id": 130, "tokens": ["Leads", "from", "Coca", "Cola", "in", "Atlanta"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 131, "tokens": ["Looking", "for", "a", "dentist", "from", "the", "healthcare", "industry", "in", "Austin"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 132, "tokens": ["Leads", "from", "General", "Electric", "in", "Boston"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 133, "tokens": ["Looking", "for", "a", "psychologist", "from", "the", "healthcare", "industry", "in", "Denver"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 134, "tokens": ["Leads", "from", "Lockheed", "Martin", "in", "Dallas"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 135, "tokens": ["Looking", "for", "an", "actress", "from", "the", "film", "industry", "in", "Hollywood"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 136, "tokens": ["Leads", "from", "Ford", "in", "Detroit"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 137, "tokens": ["Looking", "for", "a", "director", "from", "the", "film", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 138, "tokens": ["Leads", "from", "Atlassian", "in", "Sydney"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 139, "tokens": ["Looking", "for", "a", "banker", "from", "the", "finance", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 140, "tokens": ["Leads", "from", "HSBC", "in", "London"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 141, "tokens": ["Looking", "for", "an", "astronaut", "from", "the", "space", "industry", "in", "Houston"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 142, "tokens": ["Leads", "from", "NASA", "in", "Cape", "Canaveral"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 143, "tokens": ["Looking", "for", "a", "writer", "from", "the", "publishing", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 144, "tokens": ["Leads", "from", "Penguin", "Random", "House", "in", "New", "York"], "ner_tags": [0, 0, 3, 4, 4, 0, 5, 6] }
+{ "id": 145, "tokens": ["Looking", "for", "a", "professor", "from", "the", "education", "industry", "in", "Cambridge"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 146, "tokens": ["Leads", "from", "Harvard", "University", "in", "Boston"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 147, "tokens": ["Looking", "for", "a", "chef", "from", "the", "culinary", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 148, "tokens": ["Leads", "from", "Ferrari", "in", "Maranello"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 149, "tokens": ["Looking", "for", "a", "pilot", "from", "the", "aviation", "industry", "in", "Atlanta"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 150, "tokens": ["Leads", "from", "Delta", "Airlines", "in", "Atlanta"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 151, "tokens": ["Looking", "for", "a", "florist", "from", "the", "flower", "industry", "in", "Amsterdam"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 152, "tokens": ["Leads", "from", "Heineken", "in", "Amsterdam"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 153, "tokens": ["Looking", "for", "a", "coach", "from", "the", "sports", "industry", "in", "Madrid"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 154, "tokens": ["Leads", "from", "Real", "Madrid", "in", "Madrid"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 155, "tokens": ["Looking", "for", "a", "physical", "therapist", "from", "the", "healthcare", "industry", "in", "San", "Francisco"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 156, "tokens": ["Leads", "from", "Body", "Shop", "in", "London"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 157, "tokens": ["Looking", "for", "a", "architect", "from", "the", "construction", "industry", "in", "Berlin"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 158, "tokens": ["Leads", "from", "Siemens", "in", "Munich"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 159, "tokens": ["Looking", "for", "a", "DJ", "from", "the", "music", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 160, "tokens": ["Leads", "from", "Universal", "Music", "in", "Hollywood"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 161, "tokens": ["Looking", "for", "an", "economist", "from", "the", "finance", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 162, "tokens": ["Leads", "from", "Goldman", "Sachs", "in", "New", "York"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 163, "tokens": ["Looking", "for", "a", "model", "from", "the", "fashion", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 164, "tokens": ["Leads", "from", "Louis", "Vuitton", "in", "Paris"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 165, "tokens": ["Looking", "for", "a", "plumber", "from", "the", "service", "industry", "in", "Rome"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 166, "tokens": ["Leads", "from", "Ferrero", "in", "Piedmont"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 167, "tokens": ["Looking", "for", "a", "firefighter", "from", "the", "emergency", "services", "industry", "in", "Sydney"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 10, 0, 5] }
+{ "id": 168, "tokens": ["Leads", "from", "Fire", "Department", "in", "New", "York"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 169, "tokens": ["Looking", "for", "a", "manager", "from", "the", "financial", "services", "industry", "in", "Chicago"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 10, 0, 5] }
+{ "id": 170, "tokens": ["Leads", "from", "McDonald's", "in", "Chicago"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 171, "tokens": ["Looking", "for", "a", "teacher", "from", "the", "education", "industry", "in", "Boston"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 172, "tokens": ["Leads", "from", "Boston", "University", "in", "Boston"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 173, "tokens": ["Looking", "for", "a", "therapist", "from", "the", "healthcare", "industry", "in", "San", "Jose"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 174, "tokens": ["Leads", "from", "LinkedIn", "in", "Silicon", "Valley"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 175, "tokens": ["Looking", "for", "a", "researcher", "from", "the", "research", "industry", "in", "Seoul"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 176, "tokens": ["Leads", "from", "Samsung", "in", "Seoul"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 177, "tokens": ["Looking", "for", "an", "artist", "from", "the", "art", "industry", "in", "Florence"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 178, "tokens": ["Leads", "from", "Gucci", "in", "Florence"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 179, "tokens": ["Looking", "for", "a", "doctor", "from", "the", "medical", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 180, "tokens": ["Leads", "from", "Imperial", "College", "Healthcare", "NHS", "Trust", "in", "London"], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 5] }
+{ "id": 181, "tokens": ["Looking", "for", "a", "developer", "from", "the", "tech", "industry", "in", "San", "Francisco"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 182, "tokens": ["Leads", "from", "Twitter", "in", "San", "Francisco"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 183, "tokens": ["Looking", "for", "a", "chemist", "from", "the", "pharmaceutical", "industry", "in", "Basel"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 184, "tokens": ["Leads", "from", "Novartis", "in", "Basel"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 185, "tokens": ["Looking", "for", "a", "lawyer", "from", "the", "legal", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 186, "tokens": ["Leads", "from", "Sullivan", "&", "Cromwell", "LLP", "in", "New", "York"], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 5, 6] }
+{ "id": 187, "tokens": ["Looking", "for", "a", "engineer", "from", "the", "automotive", "industry", "in", "Stuttgart"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 188, "tokens": ["Leads", "from", "Mercedes-Benz", "in", "Stuttgart"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 189, "tokens": ["Looking", "for", "a", "chef", "from", "the", "culinary", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 190, "tokens": ["Leads", "from", "Le", "Meurice", "in", "Paris"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 191, "tokens": ["Looking", "for", "a", "pilot", "from", "the", "aviation", "industry", "in", "Singapore"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 192, "tokens": ["Leads", "from", "Singapore", "Airlines", "in", "Singapore"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 193, "tokens": ["Looking", "for", "a", "biologist", "from", "the", "biotech", "industry", "in", "Boston"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 194, "tokens": ["Leads", "from", "Biogen", "in", "Boston"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 195, "tokens": ["Looking", "for", "a", "actor", "from", "the", "film", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 196, "tokens": ["Leads", "from", "Paramount", "Pictures", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 197, "tokens": ["Looking", "for", "a", "journalist", "from", "the", "media", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 198, "tokens": ["Leads", "from", "BBC", "in", "London"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 199, "tokens": ["Looking", "for", "a", "bus", "driver", "from", "the", "transport", "industry", "in", "Berlin"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5] }
+{ "id": 200, "tokens": ["Leads", "from", "BVG", "in", "Berlin"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 201, "tokens": ["Looking", "for", "a", "designer", "from", "the", "fashion", "industry", "in", "Milano"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 202, "tokens": ["Leads", "from", "Dolce", "&", "Gabbana", "in", "Milano"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 203, "tokens": ["Looking", "for", "a", "artist", "from", "the", "art", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 204, "tokens": ["Leads", "from", "Louvre", "in", "Paris"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 205, "tokens": ["Looking", "for", "a", "professor", "from", "the", "education", "industry", "in", "Cambridge"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 206, "tokens": ["Leads", "from", "University", "of", "Cambridge", "in", "Cambridge"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 207, "tokens": ["Looking", "for", "a", "software", "engineer", "from", "the", "tech", "industry", "in", "San", "Jose"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 208, "tokens": ["Leads", "from", "Adobe", "Inc.", "in", "San", "Jose"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 209, "tokens": ["Looking", "for", "a", "salesperson", "from", "the", "retail", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 210, "tokens": ["Leads", "from", "Gap", "Inc.", "in", "San", "Francisco"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 211, "tokens": ["Looking", "for", "a", "musician", "from", "the", "music", "industry", "in", "Nashville"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 212, "tokens": ["Leads", "from", "Sony", "Music", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 213, "tokens": ["Looking", "for", "a", "professor", "from", "the", "education", "industry", "in", "Oxford"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 214, "tokens": ["Leads", "from", "Oxford", "University", "in", "Oxford"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 215, "tokens": ["Looking", "for", "a", "writer", "from", "the", "publishing", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 216, "tokens": ["Leads", "from", "HarperCollins", "in", "New", "York"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 217, "tokens": ["Looking", "for", "an", "actor", "from", "the", "entertainment", "industry", "in", "Hollywood"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 218, "tokens": ["Leads", "from", "Paramount", "Pictures", "in", "Hollywood"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 219, "tokens": ["Looking", "for", "a", "architect", "from", "the", "construction", "industry", "in", "Dubai"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 220, "tokens": ["Leads", "from", "Emaar", "Properties", "in", "Dubai"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 221, "tokens": ["Looking", "for", "a", "chef", "from", "the", "culinary", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 222, "tokens": ["Leads", "from", "Gordon", "Ramsay", "Restaurants", "in", "London"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 223, "tokens": ["Looking", "for", "a", "cleaner", "from", "the", "cleaning", "industry", "in", "Chicago"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 224, "tokens": ["Leads", "from", "CleanMaster", "in", "Chicago"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 225, "tokens": ["Looking", "for", "a", "dentist", "from", "the", "healthcare", "industry", "in", "Toronto"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 226, "tokens": ["Leads", "from", "Crescent", "Dental", "in", "Toronto"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 227, "tokens": ["Looking", "for", "a", "music", "producer", "from", "the", "music", "industry", "in", "Nashville"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5] }
+{ "id": 228, "tokens": ["Leads", "from", "Sony", "Music", "in", "Nashville"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 229, "tokens": ["Looking", "for", "a", "engineer", "from", "the", "tech", "industry", "in", "San", "Francisco"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 230, "tokens": ["Leads", "from", "Apple", "in", "Cupertino"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 231, "tokens": ["Looking", "for", "a", "photographer", "from", "the", "media", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 232, "tokens": ["Leads", "from", "Getty", "Images", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 233, "tokens": ["Looking", "for", "a", "journalist", "from", "the", "media", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 234, "tokens": ["Looking", "for", "a", "lawyer", "from", "the", "legal", "industry", "in", "Santa", "Clara"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 235, "tokens": ["Looking", "for", "a", "lawyer", "from", "the", "legal", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 236, "tokens": ["Leads", "from", "Baker", "McKenzie", "in", "Chicago"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 237, "tokens": ["Looking", "for", "a", "journalist", "from", "the", "media", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 238, "tokens": ["Leads", "from", "NBC", "Universal", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 239, "tokens": ["Looking", "for", "a", "model", "from", "the", "fashion", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 240, "tokens": ["Leads", "from", "Chanel", "in", "Paris"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 241, "tokens": ["Looking", "for", "a", "designer", "from", "the", "fashion", "industry", "in", "Milan"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 242, "tokens": ["Leads", "from", "Prada", "in", "Milan"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 243, "tokens": ["Looking", "for", "a", "mechanic", "from", "the", "automotive", "industry", "in", "Detroit"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 244, "tokens": ["Leads", "from", "GM", "in", "Detroit"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 245, "tokens": ["Looking", "for", "a", "singer", "from", "the", "music", "industry", "in", "Nashville"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 246, "tokens": ["Leads", "from", "Sony", "Music", "in", "Nashville"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 247, "tokens": ["Looking", "for", "a", "climber", "from", "the", "adventure", "sports", "industry", "in", "Denver"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 10, 0, 5] }
+{ "id": 248, "tokens": ["Leads", "from", "Nike", "in", "Portland"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 249, "tokens": ["Looking", "for", "a", "actor", "from", "the", "film", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 250, "tokens": ["Leads", "from", "Universal", "Pictures", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 251, "tokens": ["Looking", "for", "a", "photographer", "from", "the", "media", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 252, "tokens": ["Leads", "from", "Getty", "Images", "in", "New", "York"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 253, "tokens": ["Looking", "for", "a", "professor", "from", "the", "education", "industry", "in", "Cambridge"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 254, "tokens": ["Leads", "from", "Harvard", "University", "in", "Cambridge"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 255, "tokens": ["Looking", "for", "a", "nurse", "from", "the", "medical", "industry", "in", "Toronto"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 256, "tokens": ["Leads", "from", "Toronto", "General", "Hospital", "in", "Toronto"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 257, "tokens": ["Looking", "for", "a", "engineer", "from", "the", "tech", "industry", "in", "Seattle"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 258, "tokens": ["Leads", "from", "Microsoft", "in", "Seattle"], "ner_tags": [0, 0, 3, 0, 5] }
+{ "id": 259, "tokens": ["Looking", "for", "a", "data", "scientist", "from", "the", "tech", "industry", "in", "San", "Francisco"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 260, "tokens": ["Leads", "from", "Google", "in", "Mountain", "View"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 261, "tokens": ["Looking", "for", "a", "architect", "from", "the", "construction", "industry", "in", "Dubai"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 262, "tokens": ["Leads", "from", "Emaar", "Properties", "in", "Dubai"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 263, "tokens": ["Leads", "from", "Emaar", "Properties", "in", "Paris"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 264, "tokens": ["Leads", "from", "Apple", "Inc.", "in", "Cupertino"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 265, "tokens": ["Looking", "for", "a", "teacher", "from", "the", "education", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 266, "tokens": ["Leads", "from", "Imperial", "College", "London", "in", "London"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 267, "tokens": ["Looking", "for", "a", "banker", "from", "the", "finance", "industry", "in", "Hong", "Kong"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 268, "tokens": ["Leads", "from", "HSBC", "in", "Hong", "Kong"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 269, "tokens": ["Looking", "for", "a", "sports", "coach", "from", "the", "sports", "industry", "in", "Beijing"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5] }
+{ "id": 270, "tokens": ["Leads", "from", "Beijing", "Sport", "University", "in", "Beijing"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 271, "tokens": ["Looking", "for", "a", "model", "from", "the", "fashion", "industry", "in", "Paris"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 272, "tokens": ["Leads", "from", "Christian", "Dior", "SE", "in", "Paris"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 273, "tokens": ["Looking", "for", "a", "chef", "from", "the", "culinary", "industry", "in", "London"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 274, "tokens": ["Leads", "from", "The", "Fat", "Duck", "in", "London"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 275, "tokens": ["Looking", "for", "a", "singer", "from", "the", "music", "industry", "in", "Nashville"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 276, "tokens": ["Leads", "from", "Warner", "Music", "Group", "in", "Nashville"], "ner_tags": [0, 0, 3, 4, 4, 0, 5] }
+{ "id": 277, "tokens": ["Looking", "for", "a", "actor", "from", "the", "film", "industry", "in", "Los", "Angeles"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 278, "tokens": ["Leads", "from", "Universal", "Studios", "in", "Los", "Angeles"], "ner_tags": [0, 0, 3, 4, 0, 5, 6] }
+{ "id": 279, "tokens": ["Looking", "for", "a", "pilot", "from", "the", "aviation", "industry", "in", "Dubai"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5] }
+{ "id": 280, "tokens": ["Leads", "from", "Emirates", "Airline", "in", "Dubai"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 281, "tokens": ["Looking", "for", "a", "surgeon", "from", "the", "medical", "industry", "in", "New", "York"], "ner_tags": [0, 0, 0, 7, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 282, "tokens": ["Leads", "from", "Mayo", "Clinic", "in", "Rochester"], "ner_tags": [0, 0, 3, 4, 0, 5] }
+{ "id": 283, "tokens": ["Looking", "for", "a", "data", "scientist", "from", "the", "tech", "industry", "in", "Silicon", "Valley"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 9, 10, 0, 5, 6] }
+{ "id": 284, "tokens": ["Leads", "from", "Facebook", "in", "Menlo", "Park"], "ner_tags": [0, 0, 3, 0, 5, 6] }
+{ "id": 285, "tokens": ["John", "is", "a", "doctor", "at", "Stanford", "Hospital"], "ner_tags": [1, 0, 0, 7, 0, 3, 4] }
+{ "id": 286, "tokens": ["Sandra", "works", "in", "the", "automotive", "industry"], "ner_tags": [1, 0, 0, 0, 9, 10] }
+{ "id": 287, "tokens": ["The", "United", "Nations", "is", "located", "in", "New", "York"], "ner_tags": [0, 3, 4, 0, 0, 0, 5, 6] }
+{ "id": 288, "tokens": ["Frank", "is", "the", "CEO", "of", "Microsoft"], "ner_tags": [1, 0, 0, 7, 0, 3] }
+{ "id": 289, "tokens": ["I", "visited", "the", "Great", "Wall", "of", "China"], "ner_tags": [0, 0, 0, 5, 6, 0, 5] }
+
+
+
+  
